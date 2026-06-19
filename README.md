@@ -4,16 +4,16 @@
 
 ## 公式サイト・サービス
 
-- [名古屋工業大学の公式サイト](https://www.nitech.ac.jp/)
-- [情報基盤センター](https://www.cc.nitech.ac.jp/)
-  - [学生ポータル](https://www.cc.nitech.ac.jp/stn-portal-login.html)
-  - [学生用電子掲示板](https://www.cc.nitech.ac.jp/stn-bbs.html)
-  - [NITechピロリン](https://www.cc.nitech.ac.jp/service/students/pyrroline.html)
-- [名古屋工業大学 シラバス公開システム](https://syllabus.ict.nitech.ac.jp/)
-- [名古屋工業大学図書館](https://www.lib.nitech.ac.jp/)
-- [名古屋工業大学学術機関リポジトリ](https://nitech.repo.nii.ac.jp/)
-- [国立大学法人名古屋工業大学規則](https://kisoku.web.nitech.ac.jp/)
-- [名古屋工業大学 研究者情報](https://pure.nitech.ac.jp/ja/)
+- https://www.nitech.ac.jp/ - 名古屋工業大学の公式サイト
+- https://www.cc.nitech.ac.jp/ - 情報基盤センター
+  - https://www.cc.nitech.ac.jp/stn-portal-login.html - 学生ポータル
+  - https://www.cc.nitech.ac.jp/stn-bbs.html - 学生用電子掲示板
+  - https://www.cc.nitech.ac.jp/service/students/pyrroline.html - NITechピロリン
+- https://syllabus.ict.nitech.ac.jp/ - 名古屋工業大学 シラバス公開システム
+- https://www.lib.nitech.ac.jp/ - 名古屋工業大学図書館
+- https://nitech.repo.nii.ac.jp/ - 名古屋工業大学学術機関リポジトリ
+- https://kisoku.web.nitech.ac.jp/ - 国立大学法人名古屋工業大学規則
+- https://pure.nitech.ac.jp/ja/ - 名古屋工業大学 研究者情報
 
 ## 非公式ツール・ライブラリ
 
